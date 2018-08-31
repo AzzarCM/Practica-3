@@ -1,3 +1,4 @@
+--00
 *{
     padding: 0%;
     margin: 0;  
@@ -62,7 +63,7 @@ footer{
 label{
     padding-top: 3px;
     padding-bottom: 3px;
-
+    display:inline-block;
 }
 
 .section-footer{
@@ -98,9 +99,7 @@ input [type="summit"]{
 label span{
     color: #d35400;
 }
-nav{
-    height: 40px;
-}
+
 /*
 0. Aplicar a todo el documento es siguente estilo:
     0.1 Quitar marges
